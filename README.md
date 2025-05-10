@@ -103,6 +103,8 @@ Effectively addresses challenges posed by compressed or low-resolution images.
 
 ## Softtware Requirements
 
+![image alt](https://github.com/Rubika0109/cybervaccine-A-Image-Forgery-Detection-System/blob/e0cfcdf8c0d006cc11079de5ace4565e042b2380/Screenshot%20(62).png)
+
 
 
 
