@@ -8,7 +8,7 @@ This project introduces an advanced Photo Forgery Detector System leveraging Inv
 
 The system, comprising the Cyber Vaccinator, Vaccine Validator, Forgery Detector Phase for Tamper Detection, and Self Recovery Phase for Image Self-Recovery, aims to proactively immunize images against various attacks. 
 
-To ensure lossless recovery, Run-Length Encoding (RLE) is employed as a final step to compare the original image and the recovered image. 
+To ensure lossless recovery, Run-Length Encoding (RLE) is employed as a final step to compare the original image and the recovered image.
 
 
 ## Table of content
